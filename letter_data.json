@@ -1,0 +1,106 @@
+{
+    "A": {
+        "tiles": 9,
+        "points": 1
+    },
+    "B": {
+        "tiles": 2,
+        "points": 3
+    },
+    "C": {
+        "tiles": 2,
+        "points": 3
+    },
+    "D": {
+        "tiles": 4,
+        "points": 2
+    },
+    "E": {
+        "tiles": 12,
+        "points": 1
+    },
+    "F": {
+        "tiles": 2,
+        "points": 4
+    },
+    "G": {
+        "tiles": 3,
+        "points": 2
+    },
+    "H": {
+        "tiles": 2,
+        "points": 4
+    },
+    "I": {
+        "tiles": 9,
+        "points": 1
+    },
+    "J": {
+        "tiles": 1,
+        "points": 8
+    },
+    "K": {
+        "tiles": 1,
+        "points": 5
+    },
+    "L": {
+        "tiles": 4,
+        "points": 1
+    },
+    "M": {
+        "tiles": 2,
+        "points": 3
+    },
+    "N": {
+        "tiles": 6,
+        "points": 1
+    },
+    "O": {
+        "tiles": 8,
+        "points": 1
+    },
+    "P": {
+        "tiles": 2,
+        "points": 3
+    },
+    "Q": {
+        "tiles": 1,
+        "points": 10
+    },
+    "R": {
+        "tiles": 6,
+        "points": 1
+    },
+    "S": {
+        "tiles": 4,
+        "points": 1
+    },
+    "T": {
+        "tiles": 6,
+        "points": 1
+    },
+    "U": {
+        "tiles": 4,
+        "points": 1
+    },
+    "V": {
+        "tiles": 2,
+        "points": 4
+    },
+    "W": {
+        "tiles": 2,
+        "points": 4
+    },
+    "X": {
+        "tiles": 1,
+        "points": 8
+    },
+    "Y": {
+        "tiles": 2,
+        "points": 4
+    },
+    "Z": {
+        "tiles": 1,
+        "points": 10
+    }
+}
