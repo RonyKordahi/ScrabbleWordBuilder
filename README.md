@@ -80,3 +80,9 @@ To achieve this, I checked if the board word is included inside the dictionary w
 Example: if the board word is `CHILL`, the rack contains `L, I, Y`, and the dictionary word is `LILY`, then that word is valid.
 
 To achieve this, I checked if every letter of the word is available in the rack, and for any missing letters I would check the word on the board instead. If more than one letter is missing from the rack and found in the board, the dictionary word is marked as invalid and skipped. If there is only one missing letter and it is available in the word on the board, then the dictionary word is valid.
+
+#### No Win Scenario
+
+While uncommon, it is not impossible for the application to give a no win scenario with the combination of the word on the board and the letters in the rack.
+
+To deal with this I display a message to the user that no valid word can be made with the available combination.

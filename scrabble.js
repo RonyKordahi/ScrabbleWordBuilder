@@ -180,7 +180,7 @@ The word on the board was: ${boardWord ? `"${boardWord}"` : "(none)"}
 
 The letters available on the rack were: "${rack.join(", ")}"
 
-Unfortunately no valid word can be built with this combination. Better luck next time!
+Unfortunately no valid word can be made with this combination. Better luck next time!
 `);
 }
 // Display the results
